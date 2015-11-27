@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bmishkin.github.io
+title: Mishkin Blog
+tagline: Ahead in the clouds.
+description: Thoughts on cloud architecture, Rails, AWS, and more.
+paginate: 5
